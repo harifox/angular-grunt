@@ -11,8 +11,10 @@ Run angularjs files with grunt.
 ## Usage
 
 If you want minified the code use:
+
 1. 'npm install grunt --save-dev'
 2. 'npm install grunt-contrib-uglify --save-dev'
+ 
 &
 Create a sub-folder like 'app in that folder create a another 'src folder.
 Create a your js files in 'src foldrer.
