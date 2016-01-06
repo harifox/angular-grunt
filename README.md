@@ -1,2 +1,2 @@
 # angular-grunt
-Working with grunt .
+Run angularjs files with grunt. 
